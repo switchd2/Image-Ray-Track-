@@ -31,6 +31,7 @@ A fullscreen, black-background gallery of seven high-resolution nature photograp
 | Images     | Unsplash (external URLs)     |
 | Animation  | Web Animations API           |
 
+
 ---
 
 ## File Structure
